@@ -19,5 +19,4 @@ Works on mobile, tablet, laptop, and desktop
 ## How to Run
 Open index.html in browser
 
-## Screenshots
-Available in screenshots folder
+
