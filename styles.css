@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family:Poppins,sans-serif;
+}
+
+.bg-gradient{
+    background:linear-gradient(135deg,#667eea,#764ba2);
+    min-height:100vh;
+}
+
+.card{
+    border-radius:15px;
+    transition:.3s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+}
+
+.btn{
+    transition:.3s;
+}
+
+.btn:hover{
+    transform:scale(1.05);
+}
+
+a{
+    color:#667eea;
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+.form-control:focus{
+    border-color:#667eea;
+    box-shadow:0 0 5px rgba(102,126,234,.5);
+}
